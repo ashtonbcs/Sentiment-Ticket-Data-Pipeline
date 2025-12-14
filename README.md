@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-To curate any files you choose add the CSV into data/raw
+A CSV file containing support tickets is placed in the Data/raw directory
+The Airflow DAG is triggered manually or scheduled
 
-run this line in the terminal : python run_pipeline.py new_file.csv
-=======
-# Sentiment-Ticket-Data-Pipeline
-This project makes use of Python, SQLite, Apache Airflow to create an end-to-end data pipeline
->>>>>>> e0156a1e14359b67cc2f433f3f4f1bd308d159a2
+The pipeline loads and validates input data, applies NLP based labeling and inserts curated records into the SQLite database
+Results are available immediately for querying or analytics
+
+The pipeline is fully orchestrated with Apache Airflow and runs inside a Dockerized enviormnet which enables reproducible batch processing.

@@ -243,3 +243,14 @@ Data/raw/*.csv
 # OS
 .DS_Store
 Thumbs.db
+
+# Fernet Key
+fernet_key
+fernet_key.txt
+*.key
+
+# Airflow secrets / keys
+.env
+.env.*
+airflow/.env
+airflow/**/.env

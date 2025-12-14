@@ -1,0 +1,9 @@
+ticket_id,user_id,created_at,message_text,channel,agent_id
+301,601,2024-12-05 08:30:00,"I was charged twice for my subscription this month.",email,21
+302,602,2024-12-05 09:10:00,"The mobile app freezes whenever I try to reset my password.",chat,22
+303,603,2024-12-05 09:45:00,"How do I update my billing information?",email,23
+304,604,2024-12-05 10:05:00,"My account was locked after too many login attempts.",phone,24
+305,605,2024-12-05 10:30:00,"Thanks for the quick help earlier!",email,25
+306,606,2024-12-05 11:00:00,"Refund still hasn’t appeared on my bank statement.",chat,26
+307,607,2024-12-05 11:20:00,"The website loads extremely slowly today.",chat,27
+308,608,2024-12-05 11:45:00,"I want to cancel my subscription effective immediately.",email,28

@@ -1,0 +1,6 @@
+ticket_id,user_id,created_at,message_text,channel,agent_id
+1,101,2024-11-10 12:30:00,"My card was charged twice, I need a refund please.",email,23
+2,102,2024-11-10 12:45:00,The app keeps crashing whenever I open settings.,chat,
+3,103,2024-11-10 13:00:00,,phone,45
+4,104,2024-11-10 13:15:00,"I can't login to my account, it says wrong password.",,12
+5,105,2024-11-10 13:30:00,"Thanks for fixing my issue so quickly, you guys are great!",email,18

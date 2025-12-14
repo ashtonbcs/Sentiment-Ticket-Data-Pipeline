@@ -1,0 +1,6 @@
+ticket_id,user_id,created_at,message_text,channel,agent_id
+201,501,2024-12-01 09:15:00,My payment failed but money was deducted.,email,11
+202,502,2024-12-01 09:40:00,App crashes every time I try to upload a photo.,chat,14
+203,503,2024-12-01 10:05:00,I forgot my password and cannot log in.,web,18
+204,504,2024-12-01 10:30:00,"Customer support was very helpful, thank you!",email,22
+205,505,2024-12-01 10:55:00,My account was charged twice for the same order.,phone,19

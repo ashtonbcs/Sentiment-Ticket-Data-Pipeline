@@ -1,0 +1,6 @@
+ticket_id,user_id,created_at,message_text,channel,agent_id
+3,203,2024-11-11 10:00:00,My payment didn't go through but I was charged.,email,30
+5,205,2024-11-11 10:05:00,The app is slow when loading my dashboard.,chat,
+6,206,2024-11-11 10:10:00,I forgot my password again and can't reset it.,phone,55
+7,207,2024-11-11 10:15:00,"The support agent was very helpful, thank you!",email,21
+8,208,2024-11-11 10:20:00,,,

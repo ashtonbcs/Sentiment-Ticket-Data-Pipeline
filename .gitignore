@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Airflow runtime
+airflow/logs/
+airflow/plugins/
+airflow/.airflow/
+
+# Docker
+docker-compose.override.yml
+
+# Data
+Data/tickets.db
+Data/raw/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
